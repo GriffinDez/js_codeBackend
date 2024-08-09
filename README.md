@@ -2,5 +2,9 @@
 
 backend project using Javascript
 
-- Models
-
+- Design Models mindMap
+- dbConnection using async/await
+- serverListening
+- Write utils/ helperClass
+- 
+- 
